@@ -28,9 +28,9 @@ https://vercel.app/
 
 ### Backend (contem o código do servidor node.js)
 
-1- Usando PowerShell do Windows, criar a pasta do projeto "filmes";
+1- Usando PowerShell do Windows, criar a pasta do projeto "filmes2";
 
-2- entrar na pasta filmes;
+2- entrar na pasta filmes2;
 
 3- criar a pasta backend;
 
