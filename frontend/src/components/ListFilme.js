@@ -35,6 +35,10 @@ const ListFilme = () => {
         <Link to="add" className="button is-success">
           Adicionar novo
         </Link>
+        <Link to="/" className="button is-success is-pulled-right">
+          Login
+        </Link>
+
         <table className="table is-striped is-fullwidth mt-2">
           <thead>
             <tr>

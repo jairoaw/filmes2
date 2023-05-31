@@ -1,5 +1,6 @@
 ## CENÁRIO: 
 Como requisitos para esta aplicação, temos:
+
 ● Realizar a autenticação e autorização com JWT
 
 ● Criar uma rota de login para realizar a autenticação de um usuário
