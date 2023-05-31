@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/jairoaw/filmes2/issues"
   },
-  "homepage": "https://github.com/jairoaw/filmes2#readme"
+  "homepage": "https://github.com/jairoaw/filmes2#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mongoose": "^7.2.2"
+  }
 }
