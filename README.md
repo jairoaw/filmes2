@@ -42,9 +42,10 @@ https://vercel.app/
 npm init -y
 ~~~
 
-6- instalar mongoose, express e cors: 
+6- instalar mongoose, express, cors, dotenv e @planetscale/database : 
 ~~~javascript
 npm i express mongoose cors
+npm install dotenv @planetscale/database
 ~~~
 
 7- instalar nodemon em modo global: 
