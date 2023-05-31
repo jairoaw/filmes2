@@ -24,6 +24,9 @@ https://youtu.be/
 
 https://vercel.app/
 
+https://ibb.co/fXQLn4M
+https://ibb.co/mTvb2Zr
+
 #####################################################################################
 ### Roteiro de instalação e execução:
 
