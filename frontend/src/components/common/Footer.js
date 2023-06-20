@@ -1,6 +1,6 @@
 const Footer = () => {
 	const target = "_blank";
-	const link ="https://github.com/jairoaw/filmes";
+	const link ="https://github.com/jairoaw/filmes2";
 
 	return (
 		<div className="container">
